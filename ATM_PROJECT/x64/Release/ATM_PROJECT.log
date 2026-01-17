@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(11,22): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(14,22): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+  Generating code
+  3 of 154 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ATM_PROJECT.vcxproj -> C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\x64\Release\ATM_PROJECT.exe

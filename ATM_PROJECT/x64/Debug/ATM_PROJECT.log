@@ -1,0 +1,151 @@
+﻿  main.cpp
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(292,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(296,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(296,59): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(296,59): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(296,59): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(296,59): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(296,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(296,49): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(296,49): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(296,49): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(296,49): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(297,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(297,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(304,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(310,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(310,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(314,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(315,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(315,59): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(315,59): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(315,59): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(315,59): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(315,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(315,49): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(315,49): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(315,49): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(315,49): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(316,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(316,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(323,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(329,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(329,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(335,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,83): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,83): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,83): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,83): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,73): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,73): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,73): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,73): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,43): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,43): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,43): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,43): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,29): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,29): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,29): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(339,29): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(343,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,86): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,86): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,86): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,86): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,86): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,76): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,76): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,76): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,76): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,44): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,44): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,44): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,44): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,29): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,29): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,29): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(344,29): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(345,46): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(457,84): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(495,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(495,63): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(495,63): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(495,63): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(495,63): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(495,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(495,53): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(495,53): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(495,53): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(495,53): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(496,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(496,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(504,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(504,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(508,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(508,64): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(508,64): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(508,64): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(508,64): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(508,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(508,54): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(508,54): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(508,54): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(508,54): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(509,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(509,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(517,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(517,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(522,114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(525,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,87): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,87): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,87): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,87): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,87): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,77): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,77): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,77): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,77): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,47): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,47): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,47): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,47): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,33): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,33): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,33): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(575,33): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,88): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,88): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,88): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,88): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,88): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,78): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,78): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,78): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,78): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,78): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,48): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,48): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,48): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,48): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,33): warning C4244:         with
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,33): warning C4244:         [
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,33): warning C4244:             T=float
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(579,33): warning C4244:         ]
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(646,93): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(777,95): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\main.cpp(834,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ATM_PROJECT.vcxproj -> C:\Users\Acer\Desktop\Final_Project\ATM_PROJECT\x64\Debug\ATM_PROJECT.exe
