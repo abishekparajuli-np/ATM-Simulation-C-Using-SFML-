@@ -7,9 +7,9 @@ A graphical ATM (Automated Teller Machine) simulation application built with C++
 This project was developed as part of the **Second Semester OOP Course** at **Pulchowk Campus, Institute of Engineering, Tribhuvan University**. 
 
 ### Team Members
-- **Abishek Parajuli** ([@abishekparajuli-np](https://github.com/abishekparajuli-np))
-- **Aayush Dulal**
-- **Aavash Sapkota**
+- **Abishek Parajuli** [([@abishekparajuli-np](https://github.com/abishekparajuli-np))]
+- **Aayush Dulal** [([@Aayushdulal](https://github.com/Aayushdulal))]
+- **Aavash Sapkota**[([@sapkotaavash](https://github.com/sapkotaavash))]
 
 ## ✨ Features
 
@@ -117,4 +117,5 @@ This project is for educational purposes.
 - Pulchowk Campus, IOE for the learning opportunity
 - SFML community for the excellent graphics library
 - OpenSSL for cryptographic functions
+
 
